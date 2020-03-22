@@ -1,0 +1,7 @@
+C:\Users\Matai\Desktop\infa\s8\Krypto\Lista1\Zadanie 4 schrinking generator\Zadanie 4 schrinking generator\bin\Release\Zadanie 4 schrinking generator.exe.config
+C:\Users\Matai\Desktop\infa\s8\Krypto\Lista1\Zadanie 4 schrinking generator\Zadanie 4 schrinking generator\bin\Release\Zadanie 4 schrinking generator.exe
+C:\Users\Matai\Desktop\infa\s8\Krypto\Lista1\Zadanie 4 schrinking generator\Zadanie 4 schrinking generator\bin\Release\Zadanie 4 schrinking generator.pdb
+C:\Users\Matai\Desktop\infa\s8\Krypto\Lista1\Zadanie 4 schrinking generator\Zadanie 4 schrinking generator\obj\Release\Zadanie 4 schrinking generator.csprojAssemblyReference.cache
+C:\Users\Matai\Desktop\infa\s8\Krypto\Lista1\Zadanie 4 schrinking generator\Zadanie 4 schrinking generator\obj\Release\Zadanie 4 schrinking generator.csproj.CoreCompileInputs.cache
+C:\Users\Matai\Desktop\infa\s8\Krypto\Lista1\Zadanie 4 schrinking generator\Zadanie 4 schrinking generator\obj\Release\Zadanie 4 schrinking generator.exe
+C:\Users\Matai\Desktop\infa\s8\Krypto\Lista1\Zadanie 4 schrinking generator\Zadanie 4 schrinking generator\obj\Release\Zadanie 4 schrinking generator.pdb
