@@ -1,0 +1,6 @@
+CBC
+Qwerty
+Matai
+C:\Users\Matai\Desktop\infa\s8\Krypto\Lista2\java z1\out\production\AESEncDec\keystore.keystore
+C:\Users\Matai\Desktop\infa\s8\Krypto\Lista2\java z1\out\production\AESEncDec\in.txt
+C:\Users\Matai\Desktop\infa\s8\Krypto\Lista2\java z1\out\production\AESEncDec\out.txt
