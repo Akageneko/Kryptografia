@@ -1,0 +1,11 @@
+C:\infa\s8\Krypto\Lista3\Merkle_Hellman_crypto\bin\Debug\Merkle_Hellman_crypto.exe.config
+C:\infa\s8\Krypto\Lista3\Merkle_Hellman_crypto\bin\Debug\Merkle_Hellman_crypto.exe
+C:\infa\s8\Krypto\Lista3\Merkle_Hellman_crypto\bin\Debug\Merkle_Hellman_crypto.pdb
+C:\infa\s8\Krypto\Lista3\Merkle_Hellman_crypto\bin\Debug\Math.Gmp.Native.dll
+C:\infa\s8\Krypto\Lista3\Merkle_Hellman_crypto\bin\Debug\Math.Gmp.Native.pdb
+C:\infa\s8\Krypto\Lista3\Merkle_Hellman_crypto\bin\Debug\Math.Gmp.Native.xml
+C:\infa\s8\Krypto\Lista3\Merkle_Hellman_crypto\obj\Debug\Merkle_Hellman_crypto.csprojAssemblyReference.cache
+C:\infa\s8\Krypto\Lista3\Merkle_Hellman_crypto\obj\Debug\Merkle_Hellman_crypto.csproj.CoreCompileInputs.cache
+C:\infa\s8\Krypto\Lista3\Merkle_Hellman_crypto\obj\Debug\Merkle_Hellman_crypto.csproj.CopyComplete
+C:\infa\s8\Krypto\Lista3\Merkle_Hellman_crypto\obj\Debug\Merkle_Hellman_crypto.exe
+C:\infa\s8\Krypto\Lista3\Merkle_Hellman_crypto\obj\Debug\Merkle_Hellman_crypto.pdb
