@@ -205,7 +205,7 @@ namespace Projekt_2.logika
         private void ManageMessages(string s, int id)
         {
             string[] temp = s.Split('|');
-              Print(s);
+            //  Print(s);
             switch (temp[0])
             {
                 case "HelloClient":

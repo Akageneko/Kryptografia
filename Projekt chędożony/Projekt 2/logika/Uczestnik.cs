@@ -273,7 +273,7 @@ namespace Projekt_2.logika
         private void ManageMessages(string s)
         {
             string[] temp = s.Split('|');
-            Print(s);
+           // Print(s);
             switch (temp[0])
             {
                 case "HelloServer":
