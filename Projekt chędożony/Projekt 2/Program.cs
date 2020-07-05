@@ -12,7 +12,9 @@ namespace Projekt_2
         static void Main(string[] args)
         {
             int uczestnikow = 4;
-            string sciezka_certyfikaty = "C:\\Users\\Matai\\Desktop\\infa\\s8\\Krypto\\git1\\Projekt chędożony\\Projekt 2\\bin\\Debug\\";
+            string sciezka_certyfikaty = @"C:\infa\s8\Krypto\git\Kryptografia\Projekt chędożony\Projekt 2\bin\Debug\";
+
+
 
             Game game = new Game(uczestnikow, sciezka_certyfikaty);
 

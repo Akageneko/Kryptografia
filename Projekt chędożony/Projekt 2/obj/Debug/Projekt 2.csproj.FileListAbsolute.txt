@@ -5,3 +5,18 @@ C:\Users\Matai\Desktop\infa\s8\Krypto\git1\Projekt chędożony\Projekt 2\obj\Deb
 C:\Users\Matai\Desktop\infa\s8\Krypto\git1\Projekt chędożony\Projekt 2\obj\Debug\Projekt 2.csproj.CoreCompileInputs.cache
 C:\Users\Matai\Desktop\infa\s8\Krypto\git1\Projekt chędożony\Projekt 2\obj\Debug\Projekt 2.exe
 C:\Users\Matai\Desktop\infa\s8\Krypto\git1\Projekt chędożony\Projekt 2\obj\Debug\Projekt 2.pdb
+C:\Users\Matai\Desktop\infa\s8\Krypto\git1\Projekt chędożony\Projekt 2\bin\Debug\Math.Gmp.Native.dll
+C:\Users\Matai\Desktop\infa\s8\Krypto\git1\Projekt chędożony\Projekt 2\bin\Debug\Math.Gmp.Native.pdb
+C:\Users\Matai\Desktop\infa\s8\Krypto\git1\Projekt chędożony\Projekt 2\bin\Debug\Math.Gmp.Native.xml
+C:\Users\Matai\Desktop\infa\s8\Krypto\git1\Projekt chędożony\Projekt 2\obj\Debug\Projekt 2.csproj.CopyComplete
+C:\infa\s8\Krypto\git\Kryptografia\Projekt chędożony\Projekt 2\bin\Debug\Projekt 2.exe.config
+C:\infa\s8\Krypto\git\Kryptografia\Projekt chędożony\Projekt 2\bin\Debug\Projekt 2.exe
+C:\infa\s8\Krypto\git\Kryptografia\Projekt chędożony\Projekt 2\bin\Debug\Projekt 2.pdb
+C:\infa\s8\Krypto\git\Kryptografia\Projekt chędożony\Projekt 2\bin\Debug\Math.Gmp.Native.dll
+C:\infa\s8\Krypto\git\Kryptografia\Projekt chędożony\Projekt 2\bin\Debug\Math.Gmp.Native.pdb
+C:\infa\s8\Krypto\git\Kryptografia\Projekt chędożony\Projekt 2\bin\Debug\Math.Gmp.Native.xml
+C:\infa\s8\Krypto\git\Kryptografia\Projekt chędożony\Projekt 2\obj\Debug\Projekt 2.csprojAssemblyReference.cache
+C:\infa\s8\Krypto\git\Kryptografia\Projekt chędożony\Projekt 2\obj\Debug\Projekt 2.csproj.CoreCompileInputs.cache
+C:\infa\s8\Krypto\git\Kryptografia\Projekt chędożony\Projekt 2\obj\Debug\Projekt 2.csproj.CopyComplete
+C:\infa\s8\Krypto\git\Kryptografia\Projekt chędożony\Projekt 2\obj\Debug\Projekt 2.exe
+C:\infa\s8\Krypto\git\Kryptografia\Projekt chędożony\Projekt 2\obj\Debug\Projekt 2.pdb
